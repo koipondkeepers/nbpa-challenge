@@ -49,7 +49,7 @@ const ListBills = () => {
         <input
           type="text"
           className="form-control m-2"
-          placeholder="Search by Name"
+          placeholder="Search by Client"
           name="name"
           label="Name"
           id="name"
